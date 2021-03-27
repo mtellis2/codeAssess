@@ -15,6 +15,6 @@ Code assessment
    - Ruby : 1
    - Angular : 2
    - Helm : 1
-   - Terraform : 3
+   - Terraform : 2
    - MQL (MongoDB Query Language) : 1
    - SQL : 3
