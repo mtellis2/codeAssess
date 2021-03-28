@@ -1,2 +1,20 @@
+# vs code
+.vscode
+
+# mac
+.DS_Store
+
+#general
 *.class
 *.log
+
+# sbt
+bin/
+project/target
+target/
+build/
+
+# metals
+.metals
+.bloop
+project/**/metals.sbt
