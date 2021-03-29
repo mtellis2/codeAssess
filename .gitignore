@@ -16,5 +16,7 @@ build/
 
 # metals
 .metals
-.bloop
+.bsp
 project/**/metals.sbt
+
+.bloop/
