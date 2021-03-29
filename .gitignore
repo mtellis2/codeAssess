@@ -1,2 +1,22 @@
+# vs code
+.vscode
+
+# mac
+.DS_Store
+
+#general
 *.class
 *.log
+
+# sbt
+bin/
+project/target
+target/
+build/
+
+# metals
+.metals
+.bsp
+project/**/metals.sbt
+
+.bloop/
